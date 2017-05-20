@@ -1,10 +1,10 @@
 ![alt](http://i68.tinypic.com/sn11xx.jpg)
 # Twitter Shadow Topic v1.0
 ### -- A Topic Promoting Twitter Bot --
-This is a topic promoting twitter bot. All that is needed is a twitter accounts
+This is a topic promoting twitter bot. All that is needed is a twitter account's
 api information and 3 topic hashtags. The bot skims for tweets with any of the topic hashtags located
 in the program code or entered at the prompt and then retweets them after adding a trending hashtag to the end of
-the tweet in order to inject them into popular streams.
+the tweet in order to inject them into popular streams every 15 minutes.
 
  You can run the app and enter your Twitter app API credentials at the prompt, or you can
 insert them into the code to avoid entering them everytime the app is run. The same goes
